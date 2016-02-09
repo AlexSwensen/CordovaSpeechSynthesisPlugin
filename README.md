@@ -1,11 +1,11 @@
-SpeechSynthesisPlugin
+CordovaSpeechSynthesisPlugin
 =====================
 
-W3C Web Speech API - Speech synthesis plugin for PhoneGap
+W3C Web Speech API - Speech synthesis plugin for Cordova
 
 Install
 =================
 
 Using the command line tools run:
 
-    phonegap local plugin add https://github.com/macdonst/SpeechSynthesisPlugin
+    cordova plugin add https://github.com/AlexSwensen/CordovaSpeechSynthesisPlugin
