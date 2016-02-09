@@ -1,6 +1,6 @@
 
 var exec = require("cordova/exec");
-var SpeechSynthesisVoiceList = require("org.apache.cordova.speech.speechsynthesis.SpeechSynthesisVoiceList");
+var SpeechSynthesisVoiceList = require("cordova-plugin-android-speech.SpeechSynthesisVoiceList");
 
 var SpeechSynthesis = function() {
     this.pending = false;
